@@ -1,0 +1,1 @@
+print("TURAN KİREMİT ERP BAŞLADI")
